@@ -81,7 +81,7 @@ This tool is for **educational and ethical scraping purposes only**. Make sure y
 
 
 
-```
+
 
 ---
 
