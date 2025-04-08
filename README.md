@@ -2,7 +2,7 @@
 
 ---
 
-```markdown
+
 #  Human-Like Web Scraper (Bypassing Cloudflare) 
 
 This project is a powerful, human-behavior-simulating web scraper written in Python. It uses undetected-chromedriver to bypass sophisticated bot protection mechanisms, including Cloudflare's anti-bot systems, and extracts readable content from web pages.
