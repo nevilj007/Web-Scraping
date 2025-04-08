@@ -5,7 +5,7 @@
 ```markdown
 #  Human-Like Web Scraper (Bypassing Cloudflare) 
 
-This project is a powerful, human-behavior-simulating **web scraper** written in Python. It uses `undetected-chromedriver` to bypass sophisticated bot protection mechanisms, including **Cloudflare's anti-bot systems**, and extracts readable content from web pages.
+This project is a powerful, human-behavior-simulating web scraper written in Python. It uses undetected-chromedriver to bypass sophisticated bot protection mechanisms, including Cloudflare's anti-bot systems, and extracts readable content from web pages.
 
 ---
 
@@ -77,13 +77,9 @@ Content:
 
 ##  Disclaimer 
 
-This tool is for **educational and ethical scraping purposes only**. Make sure you are complying with the [robots.txt](https://www.robotstxt.org/) rules and terms of service of the website you're scraping.
+This tool is for **educational and ethical scraping purposes only**. Make sure you are complying with the [robots.txt] (https://www.robotstxt.org/) rules and terms of service of the website you're scraping.
 
----
 
-## 📌 License
-
-MIT License © 2025 [Your Name or GitHub Username]
 
 ```
 
